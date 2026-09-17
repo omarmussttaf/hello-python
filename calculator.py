@@ -8,6 +8,6 @@
 x= float(input("what is x?"))
 y= float(input("what is y?"))
 
-z= round (x/y, 2)
+z= x / y
 
 print("the answer is", f"{z:.2f}" )
